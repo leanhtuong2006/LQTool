@@ -1,9 +1,6 @@
 {
   "version": "2026.04.18",
   "parts": [
-    "https://github.com/leanhtuong2006/LQTool/releases/download/LQvn/lqmain.zip.001",
-    "https://github.com/leanhtuong2006/LQTool/releases/download/LQvn/lqmain.zip.002",
-    "https://github.com/leanhtuong2006/LQTool/releases/download/LQvn/lqmain.zip.003",
-    "https://github.com/leanhtuong2006/LQTool/releases/download/LQvn/lqmain.zip.004"
+    "https://github.com/leanhtuong2006/LQTool/releases/download/LQvn/lqmain.zip.001"
   ]
 }
